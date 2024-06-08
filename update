@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Testing Install!"
+touch /tmp/test_update
